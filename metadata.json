@@ -1,0 +1,6 @@
+{
+  "name": "دلفینا — شکارچی گنج‌های دلفی",
+  "description": "مینی‌گیم آموزشی تشخیص اشیا با هوش مصنوعی در دنیای دلفینا با الهام از Emoji Scavenger Hunt برای کودکان ۸ تا ۱۳ سال",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
